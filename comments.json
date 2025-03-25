@@ -1,0 +1,22 @@
+{
+    "comments": [
+        {
+            "id": 1,
+            "user": "JohnDoe",
+            "message": "Este é o meu primeiro comentário!",
+            "timestamp": "2023-03-01T10:00:00Z"
+        },
+        {
+            "id": 2,
+            "user": "JaneSmith",
+            "message": "Adorei este post, muito informativo.",
+            "timestamp": "2023-03-01T10:05:00Z"
+        },
+        {
+            "id": 3,
+            "user": "User123",
+            "message": "Tenho uma dúvida sobre o conteúdo.",
+            "timestamp": "2023-03-01T10:10:00Z"
+        }
+    ]
+}
